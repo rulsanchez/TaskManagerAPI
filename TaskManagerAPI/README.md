@@ -3,7 +3,7 @@
 TaskManagerAPI es una API REST desarrollada con **.NET 8**, **ASP.NET Core**, **Entity Framework Core** y **JWT**, que permite a usuarios autenticados gestionar tareas personales. Está pensada como parte de un portfolio técnico.
 
 ---
-
+   
 ## Tecnologías utilizadas
 
 * .NET 8 (ASP.NET Core Web API)
