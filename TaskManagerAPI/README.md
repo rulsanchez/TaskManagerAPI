@@ -123,3 +123,4 @@ Este proyecto es de uso personal/educativo. No contiene datos reales ni se usa e
 ---
 
 *Desarrollado por [rulsanchez](https://github.com/rulsanchez)*
+> Proyecto de ejemplo en .NET 8 - Portfolio técnico
